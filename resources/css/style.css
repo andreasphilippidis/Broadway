@@ -1,0 +1,35 @@
+body{
+  text-align: center;
+  font-family: Helvetica;
+
+}
+.header, .credits{
+  /*white*/
+  color: #fff;
+  background-image: url(/users/imac/desktop/projects/broadway/resources/images/the-flatiron-building.png);
+}
+.header h1{
+  font-size: 70px;
+}
+.header p{
+  font-size: 18px;
+}
+.main h2{
+  font-size: 32px;
+}
+.main h3, .credits h3, .footer h3{
+  font-size: 23px;
+}
+.main p, .footer p{
+  font-size: 14px;
+}
+.copywriter{
+  /*dimgray*/
+  background-color: #696969;
+  /*white*/
+  color: #fff;
+  text-align: left;
+}
+.copywriter p{
+  font-size: 11px;
+}
